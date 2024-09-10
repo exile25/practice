@@ -1,5 +1,5 @@
 function aboutUs(){
-    alert("This is a sample about us page.");
+    alert("远程库地址：https://github.com/exile25/practice.git.");
 }
 
 function index(){
